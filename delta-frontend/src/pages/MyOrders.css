@@ -1,0 +1,76 @@
+/* Full page container */
+.orders-page {
+  min-height: 100vh;
+  width: 100vw;
+  background: #111827; /* dark background */
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 40px 20px;
+  box-sizing: border-box;
+}
+
+/* Inner content container */
+.orders-container {
+  width: 100%;
+  max-width: 800px;
+  background: #ffffff;
+  padding: 32px;
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+
+/* Title */
+.orders-title {
+  font-size: 2rem;
+  color: #1f2937;
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+/* Loading, error, and empty messages */
+.orders-loading,
+.orders-empty {
+  text-align: center;
+  font-size: 1.1rem;
+  color: #6b7280;
+}
+
+.orders-error {
+  text-align: center;
+  font-size: 1.1rem;
+  color: #ef4444;
+}
+
+/* Order card */
+.order-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 20px;
+  background: #f9fafb;
+  transition: box-shadow 0.2s ease;
+}
+
+.order-card:hover {
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+.order-card h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #111827;
+  margin-bottom: 8px;
+}
+
+.order-card p,
+.order-card li {
+  font-size: 0.95rem;
+  color: #4b5563;
+  margin: 4px 0;
+}
+
+.order-card ul {
+  padding-left: 20px;
+  margin-top: 8px;
+}
