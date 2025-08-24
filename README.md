@@ -14,9 +14,9 @@ Spring Boot 3
 
 Spring Security with JWT Authentication
 
-JPA/Hibernate
+JPA
 
-H2 / MySQL Database (configurable)
+MySQL Database (configurable)
 
 RESTful APIs
 
@@ -47,8 +47,8 @@ CSS (custom styling, no Tailwind)
 ⚙️ Setup Instructions
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/ecommerce-app.git
-cd ecommerce-app
+git clone https://github.com/Lankala-Kumar-19/DELTA-_springboot-ecommerce-project.git
+cd DELTA-_springboot-ecommerce-project
 
 
 2️⃣ Backend Setup
