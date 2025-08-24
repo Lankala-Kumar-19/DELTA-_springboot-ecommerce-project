@@ -70,4 +70,5 @@ npm run dev
 <img width="1919" height="1119" alt="products" src="https://github.com/user-attachments/assets/1c30dd93-e556-4524-b300-1ed003fbb2b1" />
 
 <img width="1919" height="1016" alt="cart" src="https://github.com/user-attachments/assets/5f305474-34dd-4908-91ab-854e13068d97" />
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/b13f178d-1de4-44a0-95e5-5577a2c3c7e1" />
 
